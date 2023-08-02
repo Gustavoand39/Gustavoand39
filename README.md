@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Alonso</h1>
 <h3 align="center">I am a Computer Systems Engineering student who wants to focus on front-end web development.</h3>
 
-- 🔭 I’m currently working on my professional and personal growth.
+- 🔭 I’m currently working on **my professional and personal growth.**
 
 - 🌱 I’m currently learning **JavaScript, React, NodeJS and PHP.**
 
