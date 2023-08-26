@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript, React, NodeJS and PHP.**
 
-- 🤔 I am looking for **help to improve my front-end skills.**
-
 - 🌎 I speak **Spanish and a little English.**
 
 - 📫 You can reach me at **gustavoand39@gmail.com**
-
-- ⚡ Fun fact **I love listening to music at all times.**
 
 <h3 align="left">Languages and Tools:</h3>
 
