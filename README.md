@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/40/43/38/404338369637686522f6377974b7b78d.gif" align="center" height="120" width="120" />
 </div>  
   
-<div align="center">I'm a student of Computer Systems Engineering. Currently, I'm focusing on web development, mainly interested in frontend development, but I'm also starting to explore backend development. I'm curious about starting to develop mobile applications, but my current focus is on mastering web development solidly.</div>
+<div align="center">I graduated with a degree in Computer Systems Engineering. I'm primarily a web developer with a strong focus on React and Express, which are the technologies I'm most proficient in. Recently, I've started expanding my knowledge into other frameworks like Angular and SpringBoot.</div>
 
 <br />
 
