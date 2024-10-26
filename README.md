@@ -1,4 +1,4 @@
-### <div align="center">I'm Gustavo Alonso, a front-end developer and student of Computer Systems Engineering.</div>  
+### <div align="center">I'm Gustavo Alonso, a full-stack developer and student of Computer Systems Engineering.</div>  
   
 <div align="center">
   <img src="https://i.pinimg.com/originals/40/43/38/404338369637686522f6377974b7b78d.gif" align="center" height="120" width="120" />
@@ -25,8 +25,6 @@
 </div>
   
 <br/>
-
-## Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoand39&hide_border=true&layout=compact" align="center" />
