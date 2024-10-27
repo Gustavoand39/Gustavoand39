@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/40/43/38/404338369637686522f6377974b7b78d.gif" align="center" height="120" width="120" />
 </div>  
   
-<div align="center">I graduated with a degree in Computer Systems Engineering. I'm primarily a web developer with a strong focus on React and Express, which are the technologies I'm most proficient in. Recently, I've started expanding my knowledge into other frameworks like Angular and SpringBoot.</div>
+<div align="center">I graduated with a degree in Computer Systems Engineering, with a focus on FullStack web development. My primary technologies are React and Express, where I have developed most of my expertise. Currently, I am broadening my knowledge to enhance my FullStack skillset by exploring new technologies and frameworks. My goal is to gain a more comprehensive understanding of both frontend and backend development to stay current in the field and continuously improve my versatility as a developer.</div>
 
 <br />
 
